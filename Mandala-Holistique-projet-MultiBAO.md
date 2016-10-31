@@ -33,14 +33,14 @@ Voici les résultats bruts (qui mériteraient d'être réorganisés sur mindmap 
 
 ### Valeurs
 
-Apprentissage
-Détournement
-Simplicité
-Enthousiasme/ inspirant
-Emergence / processus vivant / itérations
-Raconter
-Respect réciproque / Mixité / Paix / Echange / création d'abondance / co-existence pacifique
-Autonomie libre
+Apprentissage  
+Détournement  
+Simplicité  
+Enthousiasme/ inspirant  
+Emergence / processus vivant / itérations  
+Raconter  
+Respect réciproque / Mixité / Paix / Echange / création d'abondance / co-existence pacifique  
+Autonomie libre  
 
 ### Principes
 
